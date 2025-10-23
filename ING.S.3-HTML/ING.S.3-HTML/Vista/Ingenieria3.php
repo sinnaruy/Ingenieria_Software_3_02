@@ -85,6 +85,18 @@
                 </li>
             </ul>
         </div>
+
+        <!-- NUEVA SECCIÓN AGREGADA -->
+        <div class="videos-itil">
+            <h2>Videos ITIL</h2>
+            <div class="video-container">
+                <div class="video">
+                    <iframe width="360" height="215" src=" https://remingtonedu-my.sharepoint.com/:f:/g/personal/juan_mazo_6002_miremington_edu_co/EupUh1K494hMsjWeno6zdKgBWOktSke-44XA8wpP_ekT6g?e=OvTOwG" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <!-- FIN DE LA NUEVA SECCIÓN -->
+
     </body>
 </table>
 </html>
